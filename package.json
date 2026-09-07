@@ -1,0 +1,9 @@
+{
+  "name": "g0x-core-server",
+  "version": "1.0.0",
+  "description": "Minimal relay server for G0X Core",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.21.3"
+  }
+}
